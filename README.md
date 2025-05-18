@@ -1,6 +1,5 @@
 ## Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
 
-### NAME : Harish Ragav S
 ### Register no: 212222110013
 
 ## Aim:
